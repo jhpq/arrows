@@ -1,0 +1,52 @@
+[
+	{
+		"nombre":"Samsung Galaxy S4", 
+		"cantidad": 1, 
+		"precio": 130.0, 
+		"selected": false, 
+		"importe": 130.0,
+		"descuento":0
+		
+	},
+
+	{
+		"nombre":"iPhone 5s", 
+		"cantidad": 3, 
+		"precio": 70.0, 
+		"selected": false, 
+		"importe": 70.0,
+		"descuento":0 
+		 
+	},
+
+	{
+		"nombre":"HTC One", 
+		"cantidad": 1, 
+		"precio": 50.0, 
+		"selected": false, 
+		"importe": 50.0,
+		"descuento":0 
+
+	},
+
+	{
+		"nombre":"iPhone 2", 
+		"cantidad": 1, 
+		"precio": 10.0, 
+		"selected": false, 
+		"importe": 10.0,
+		"descuento":0 
+		 
+	},
+
+	{
+		"nombre":"Xperia", 
+		"cantidad": 2, 
+		"precio": 20.0, 
+		"selected": false, 
+		"importe": 40.0,
+		"descuento":0 
+
+	}
+
+]
